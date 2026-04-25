@@ -14,7 +14,6 @@ The application is hosted on an EC2 instance using Nginx and PHP, and connected 
 
 * ➕ Add new users
 * 📋 View users from database
-* ❌ Delete users
 * 🌐 Hosted on AWS Cloud
 * 🎨 Attractive UI with modern design
 
